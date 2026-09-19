@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500">
-<rect width="600" height="500" rx="32" fill="#eff6ff"/>
-<rect x="190" y="80" width="220" height="300" rx="22" fill="#fff" stroke="#2563eb" stroke-width="9"/>
-<rect x="235" y="135" width="130" height="105" rx="15" fill="#dbeafe"/>
-<path d="M300 150c-24 38-38 56-38 78a38 38 0 0076 0c0-22-14-40-38-78z" fill="#3b82f6"/>
-<path d="M125 330l110-110M115 350l25 25M115 350l-25-25" stroke="#f59e0b" stroke-width="18" stroke-linecap="round"/>
-<circle cx="130" cy="335" r="38" fill="none" stroke="#f59e0b" stroke-width="14"/>
-<text x="300" y="440" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#1e3a8a">RO Repair</text>
-</svg>
