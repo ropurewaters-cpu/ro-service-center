@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500">
+<rect width="600" height="500" rx="32" fill="#eff6ff"/>
+<path d="M185 95h230l35 45v230H150V140z" fill="#fff" stroke="#2563eb" stroke-width="9"/>
+<rect x="225" y="160" width="150" height="95" rx="14" fill="#dbeafe"/>
+<path d="M300 175c-22 35-35 52-35 72a35 35 0 0070 0c0-20-13-37-35-72z" fill="#3b82f6"/>
+<path d="M115 370h370M150 370v45M450 370v45" stroke="#64748b" stroke-width="12" stroke-linecap="round"/>
+<path d="M465 125v-45M445 100h40" stroke="#16a34a" stroke-width="12" stroke-linecap="round"/>
+<text x="300" y="470" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#1e3a8a">Installation & Setup</text>
+</svg>
